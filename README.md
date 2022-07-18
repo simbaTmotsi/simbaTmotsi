@@ -22,6 +22,15 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
 </div>
 
+- :telescope: I’m working as a Software Engineer, working on fullstack developmenent and specializing in Artificial Intelligence.
+
+- :seedling: Curently l am a Machine Learning Engineer.
+
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+
+- :mailbox: Drop me an: <a href="mailto:simbamotsi1@gmail.com">
+                              <span class="iconify" data-icon="logos:google-gmail"></span>    Email
+                        </a>
 <!--
 **simbaTmotsi/simbaTmotsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

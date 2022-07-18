@@ -5,9 +5,15 @@
 ### Hi there 👋
 
 <div id="badges">
-  <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  <img src="https://img.shields.io/badge/StackOverflow-red?logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
-  <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="https://www.linkedin.com/in/simbatmotsi/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://stackoverflow.com/users/8405902/simbarashe-timothy-motsi">
+    <img src="https://img.shields.io/badge/StackOverflow-red?logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
+  </a>
+  <a href="https://twitter.com/simbatmotsi">
+    <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
 </div>
 
 

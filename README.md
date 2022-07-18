@@ -26,7 +26,7 @@
 
 - :seedling: Curently l am a Machine Learning Engineer.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I try learning new things.
 
 - :mailbox: Drop me an <a href="mailto:simbamotsi1@gmail.com">
                           Email

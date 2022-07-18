@@ -62,8 +62,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simbatmotsi&layout=compact&theme=vision-friendly-dark)](https://github.com/simbaTmotsi/github-readme-stats)
 
-
+### StackExchange
 <img src="https://stackexchange.com/users/flair/11468313.png" width="208" height="58" alt="profile for Simbarashe Timothy Motsi on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Simbarashe Timothy Motsi on Stack Exchange, a network of free, community-driven Q&amp;A sites">
+
+# Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=simbaTmotsi&theme=onedark)](https://github.com/simbaTmotsi/github-profile-trophy)
 

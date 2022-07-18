@@ -53,6 +53,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" title="Pytorch" alt="Pytorch" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" title="TensorFlow" alt="TensorFlow" width="40" height="40"/>&nbsp;
 </div>
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=simbatmotsi&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 <!--
 **simbaTmotsi/simbaTmotsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -28,9 +28,9 @@
 
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-- :mailbox: Drop me an: <a href="mailto:simbamotsi1@gmail.com">
-                              <span class="iconify" data-icon="logos:google-gmail"></span>    Email
-                        </a>
+- :mailbox: Drop me an <a href="mailto:simbamotsi1@gmail.com">
+                          Email
+                       </a>
 <!--
 **simbaTmotsi/simbaTmotsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

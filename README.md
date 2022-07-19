@@ -17,7 +17,7 @@
 - :mailbox: Drop me an <a href="mailto:simbamotsi1@gmail.com">
                           Email
                        </a>
-<div id="badges" align="center">
+<div id="badges">
   <a href="https://www.linkedin.com/in/simbatmotsi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>

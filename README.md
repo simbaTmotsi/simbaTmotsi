@@ -6,7 +6,7 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
 </div-->
 
-<h2> Hi there 👋</h2>
+## Hi there 👋
 
 - :telescope: I’m working as a Software Engineer, working on fullstack developmenent and specializing in Artificial Intelligence.
 
@@ -29,7 +29,7 @@
   </a>
 </div>
 
-# Trophies
+## Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=simbaTmotsi&theme=onedark&row=1)](https://github.com/simbaTmotsi/github-profile-trophy)
 

@@ -1,7 +1,22 @@
-<div id="header" align="center">
+<!--div id="header" align="center">
   <img src="https://media.giphy.com/media/3o7bukPWLMVsRz38J2/giphy.gif" width="100"/>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
+</div-->
+
+<h2> Hi there 👋</h2>
+
+- :telescope: I’m working as a Software Engineer, working on fullstack developmenent and specializing in Artificial Intelligence.
+
+- :seedling: Curently l am a Machine Learning Engineer.
+
+- :zap: In my free time, I try learning new things.
+
+- :mailbox: Drop me an <a href="mailto:simbamotsi1@gmail.com">
+                          Email
+                       </a>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/simbatmotsi/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -14,23 +29,11 @@
   </a>
 </div>
 
-<div id="wave" align="center">
-  <h2> Hi there 👋</h2>
-</div>
+# Trophies
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="300" height="150"/>
-</div>
+[![trophy](https://github-profile-trophy.vercel.app/?username=simbaTmotsi&theme=onedark)](https://github.com/simbaTmotsi/github-profile-trophy)
 
-- :telescope: I’m working as a Software Engineer, working on fullstack developmenent and specializing in Artificial Intelligence.
 
-- :seedling: Curently l am a Machine Learning Engineer.
-
-- :zap: In my free time, I try learning new things.
-
-- :mailbox: Drop me an <a href="mailto:simbamotsi1@gmail.com">
-                          Email
-                       </a>
 
 ## Languages and Tools
 
@@ -64,10 +67,6 @@
 
 ### StackExchange
 <img src="https://stackexchange.com/users/flair/11468313.png" width="208" height="58" alt="profile for Simbarashe Timothy Motsi on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Simbarashe Timothy Motsi on Stack Exchange, a network of free, community-driven Q&amp;A sites">
-
-# Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=simbaTmotsi&theme=onedark)](https://github.com/simbaTmotsi/github-profile-trophy)
 
 <!--
 **simbaTmotsi/simbaTmotsi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

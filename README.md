@@ -31,7 +31,7 @@
 
 # Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=simbaTmotsi&theme=onedark)](https://github.com/simbaTmotsi/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=simbaTmotsi&theme=onedark&row=1)](https://github.com/simbaTmotsi/github-profile-trophy)
 
 
 

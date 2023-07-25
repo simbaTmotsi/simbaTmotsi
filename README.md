@@ -10,7 +10,7 @@
 
 - :telescope: I’m working as a Software Engineer, working on fullstack developmenent and specializing in Artificial Intelligence.
 
-- :seedling: Curently l am a Machine Learning Engineer.
+- :seedling: Curently l am employed as a Senior Data Engineer.
 
 - :zap: In my free time, I try learning new things.
 

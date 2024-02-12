@@ -25,7 +25,10 @@
     <img src="https://img.shields.io/badge/StackOverflow-red?logo=stackoverflow&logoColor=white" alt="StackOverflow Badge"/>
   </a>
   <a href="https://twitter.com/simbatmotsi">
-    <img src="https://img.shields.io/badge/Twitter-blue?logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/@simbaTmotsi-black?logo=x&logoColor=white" alt="X Badge"/>
+  </a>
+  <a href="https://medium.com/@simbatmotsi">
+    <img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white" alt="Medium Badge"/>
   </a>
 </div>
 
